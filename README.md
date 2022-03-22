@@ -1,4 +1,4 @@
-# project
+# plussallatok
 
 ## Project setup
 ```
